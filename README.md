@@ -88,6 +88,58 @@ html, body {
 .search-2Mwzzq:not(.open-1F8u2c) .icon-18rqoe {color: var(--text-normal);}
 .search-2Mwzzq:not(.open-1F8u2c):hover .icon-18rqoe {color: var(--text-muted);}
   ```
+4. Custom Background Image: 
+```sh
+:root {
+    --background-image: url('https://i.imgur.com/WC0aEqH.jpg'); /*Change the link to your custom image*/
+    --opacity: .95;
+}
+
+:root {background:var(--background-image) center/cover no-repeat;opacity:var(--opacity)}
+ ```
+5. AboutMe Scroll Bar:
+```sh
+.clamped-2ZePhX{
+    -webkit-line-clamp: 190; /*Maximum amount of characters as new lines, unset just breaks links*/
+    max-height:112px;
+    overflow-x: hidden;
+    overflow-y:scroll;
+}
+.clamped-2ZePhX::-webkit-scrollbar {
+  width: 10px;
+  height: 15px;
+}
+.clamped-2ZePhX::-webkit-scrollbar-track {
+  border-radius: 10px; /*How round you want the scrollbar to be. 0 is square, 10px is round.*/
+  background-color: rgb(255 255 255 / 10%); /*Edit this to what color you want the track to be.*/
+}
+.clamped-2ZePhX::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, #d3d3d3, #808080); /* Edit this to whatever color/colors you'd like*/
+  border-radius: 10px; /*How round you want the scrollbar thumb to be. 0 is square, 10px is round.*/
+}
+ ```
+6. Rounded Menus:
+```sh
+.menu-1QACrS, .colorDefault-CDqZdO { 
+    border-radius: 15px; 
+}
+ ```
+7. Compact Channels:
+```sh
+:root {
+    --category-spacing: 0px;
+    --channel-spacing: 4px;
+}
+
+.containerDefault-3TQ5YN, .containerDragAfter-1J_-1V, .containerDragBefore-ei4h1m, .containerUserOver-3woq86 {
+    padding-top: var(--category-spacing);
+}
+
+.mainContent-20q_Hp {
+    padding: var(--channel-spacing);
+}
+ ```
+
 ### Plugins
 
 ### Themes
