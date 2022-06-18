@@ -184,7 +184,7 @@ html, body {
 - [Server Details](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ServerDetails/)
 - [Show All Activities](https://github.com/Strencher/BetterDiscordStuff/tree/master/ShowAllActivities)
 - [Show Connections](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowConnections/)
-- NOT WORKING [Show Hidden Channels](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/)
+- [Show Hidden Channels](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/ShowHiddenChannels/) (NOT WORKING)
 - [Split Large Messages](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SplitLargeMessages/)
 - [Spotify Controls](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/SpotifyControls/)
 - [Spotify Listen Along](https://github.com/ordinall/BetterDiscord-Stuff/tree/master/Plugins/SpotifyListenAlong/)
@@ -194,6 +194,11 @@ html, body {
 - [ZeresPluginLibrary](https://raw.githubusercontent.com/rauenzi/BDPluginLibrary/master/release/0PluginLibrary.plugin.js)
 
 ### Themes
+
+- [Dusk to Dawn](https://github.com/Asteria5675/BetterDiscordThemes/tree/master/previews)
+- [Emoji Replace](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/EmojiReplace/)
+- [Channel Indicators](https://github.com/Discord-Theme-Addons/modern-channel-indicators/tree/main/src)
+- [Radial Status](https://github.com/DiscordStyles/RadialStatus)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
