@@ -24,7 +24,7 @@ First you should download and install the official BetterDiscord client. [Downlo
 
 ### Installation
 
-1. Download the repo [Download](https://example.com](https://github.com/Lund1337/betterdiscord/archive/refs/heads/main.zip)
+1. Download the repo [Download](https://github.com/Lund1337/betterdiscord/archive/refs/heads/main.zip)
 2. Open the .zip file and open the next folder.
 3. Extract only the 'betterdiscord' folder from there.
 4. Drag and Drop the 'betterdiscord' folder into 'C:\Users\$user$\AppData\Roaming' or where your default betterdiscord client is installed.
