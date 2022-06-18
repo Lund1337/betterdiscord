@@ -6,14 +6,14 @@
     },
     "profiles": [
         {
-            "name": "Lund",
-            "clientID": "774256826283327489",
-            "largeImageKey": "main1",
+            "name": "",
+            "clientID": "",
+            "largeImageKey": "",
             "largeImageText": "",
-            "button1Label": "Steam",
-            "button1URL": "https://steamcommunity.com/id/Iund",
-            "button2Label": "𝓛und.wtf",
-            "button2URL": "https://lund.wtf"
+            "button1Label": "",
+            "button1URL": "",
+            "button2Label": "",
+            "button2URL": ""
         },
         {
             "name": "New Profile"
