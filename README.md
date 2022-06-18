@@ -1,12 +1,14 @@
 <div id="top"></div>
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="readme/bd_logo.png" alt="Logo" width="80" height="80">
+    <img src="readme/bd_logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">BetterDiscord Pack</h3>
+</div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
