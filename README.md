@@ -15,7 +15,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://i.imgur.com/d7qDvEQ.png)
 
-BetterDiscord pack with custom css, plugins & themes. Everything is editable and customisable to your liking.
+BetterDiscord pack with custom css, plugins & themes. Everything is customisable to your liking.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -39,14 +39,14 @@ First you should download and install the official BetterDiscord client. [Downlo
 
 Everything is drag and drop, after that just reload Discord 'CTRL+R'.
 
-_If you wish to edit something, check the betterdiscord settings from discord client settings._
+_If you wish to edit something, check the betterdiscord settings from the discord client settings._
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- things -->
-## Custom CSS Plugins and Themes
+## Included
 
 ### Custom CSS
 
@@ -142,6 +142,18 @@ html, body {
  ```
 
 ### Plugins
+
+- [App Notifications](https://github.com/QWERTxD/BetterDiscordPlugins/blob/main/InAppNotifications/InAppNotifications.plugin.js)
+- [Auto Start Rich Presence](https://github.com/Mega-Mewthree/BetterDiscordPlugins/tree/master/Plugins/AutoStartRichPresence)
+- [BDFDB](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/)
+- [Better Formatting Redux](https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js)
+- [Better Friend List](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BetterFriendList/)
+- [Better Invites](https://github.com/HypedDomi/BetterDiscordStuff/tree/main/Plugins/BetterInvites)
+- [Better Role Colors](https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterRoleColors/BetterRoleColors.plugin.js)
+- [Better Search Page](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BetterSearchPage/)
+- [Bigger Stream Preview](https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/BiggerStreamPreview)
+- [BlurNSFW](https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BlurNSFW/BlurNSFW.plugin.js)
+- [Call Time Counter](https://github.com/QWERTxD/BetterDiscordPlugins/blob/main/CallTimeCounter/CallTimeCounter.plugin.js)
 
 ### Themes
 
