@@ -18,6 +18,7 @@
 BetterDiscord pack with custom css, plugins & themes. Everything is editable and customisable to your liking.
 
 <!-- GETTING STARTED -->
+## Getting Started
 ### Prerequisites
 
 First you should download and install the official BetterDiscord client. [Download](https://betterdiscord.app/)
