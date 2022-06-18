@@ -1,0 +1,22 @@
+{
+    "settings": {
+        "lastChangelogVersionSeen": "2.0.5",
+        "rpcEventInjection": true,
+        "activeProfileID": 0
+    },
+    "profiles": [
+        {
+            "name": "Lund",
+            "clientID": "774256826283327489",
+            "largeImageKey": "main1",
+            "largeImageText": "",
+            "button1Label": "Steam",
+            "button1URL": "https://steamcommunity.com/id/Iund",
+            "button2Label": "𝓛und.wtf",
+            "button2URL": "https://lund.wtf"
+        },
+        {
+            "name": "New Profile"
+        }
+    ]
+}
