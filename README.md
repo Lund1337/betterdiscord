@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Lund1337/betterdiscord">
     <img src="readme/bd_logo.jpg" alt="Logo" width="80" height="80">
   </a>
 
