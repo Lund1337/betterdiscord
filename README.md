@@ -149,6 +149,7 @@ html, body {
 - [Better Formatting Redux](https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterFormattingRedux/BetterFormattingRedux.plugin.js)
 - [Better Friend List](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BetterFriendList/)
 - [Better Invites](https://github.com/HypedDomi/BetterDiscordStuff/tree/main/Plugins/BetterInvites)
+- [Better NSFW Tag](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BetterNsfwTag/)
 - [Better Role Colors](https://raw.githubusercontent.com/rauenzi/BetterDiscordAddons/master/Plugins/BetterRoleColors/BetterRoleColors.plugin.js)
 - [Better Search Page](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/BetterSearchPage/)
 - [Bigger Stream Preview](https://github.com/jaimeadf/BetterDiscordPlugins/tree/release/src/BiggerStreamPreview)
