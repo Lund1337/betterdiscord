@@ -6,7 +6,7 @@
     "AccountDetailsPlus": false,
     "AnimatedStatus": false,
     "AutoPlayGifs": false,
-    "AutoStartRichPresence": true,
+    "AutoStartRichPresence": false,
     "BadgesEverywhere": false,
     "BDContextMenu": true,
     "BetterFormattingRedux": true,
@@ -28,7 +28,7 @@
     "SendLargeMessages": false,
     "ServerDetails": true,
     "ShowAllActivities": true,
-    "ShowHiddenChannels": false,
+    "ShowHiddenChannels": true,
     "SpotifyControls": true,
     "TypingIndicator": true,
     "Zalgo": true,
@@ -67,5 +67,6 @@
     "ProProfile": true,
     "HideStreamPreview": true,
     "RemoveBlockedUsers": true,
-    "PlatformIndicators": true
+    "PlatformIndicators": true,
+    "BetterNsfwTag": true
 }

@@ -24,7 +24,7 @@ html, body {
 }
 
 
-/* Minified Search Bar */ 
+/* Minified Search Bar  
 
 :root {
     --transitionspeed: 0.25s;
@@ -36,11 +36,12 @@ html, body {
 .search-2Mwzzq:not(.open-1F8u2c):hover .iconContainer-1RqWJj {transform: scale(1);}
 .search-2Mwzzq:not(.open-1F8u2c) .icon-18rqoe {color: var(--text-normal);}
 .search-2Mwzzq:not(.open-1F8u2c):hover .icon-18rqoe {color: var(--text-muted);}
+*/
 
 /*Add Background image to Discord*/
 
 :root {
-    --background-image: url('https://i.imgur.com/WC0aEqH.jpg'); /*Change the link to your custom image*/
+    --background-image: url(''); /*Change the link to your custom image*/
     --opacity: .95;
 }
 

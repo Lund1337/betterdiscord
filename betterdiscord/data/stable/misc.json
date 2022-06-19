@@ -4,9 +4,9 @@
         "settings": {
             "addons": false,
             "customcss": true,
-            "developer": false,
-            "window": false,
-            "editor": false
+            "developer": true,
+            "window": true,
+            "editor": true
         }
     },
     "addonlistControls": {
