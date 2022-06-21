@@ -11,9 +11,9 @@
            ▄▀  █▀▀ █   █▀▄
            ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           */
  /*--------------IMPORTS------------- */
-@import url(https://schnensch0.github.io/zelk/main.css);
-@import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+ @import url(https://schnensch0.github.io/zelk/main.css);
+ @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
+ @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
@@ -43,7 +43,7 @@
 /*-------------DARK MODE-------------*/
 /*---------------BASIC---------------*/
 .theme-dark {
-  --accent-color: #d3d3d3;
+  --accent-color: #b3b3b3;
   --background-1: #333333;
   --background-2: #292929;
   --background-accent: #1d1d1d;
@@ -63,17 +63,17 @@
   --background-mentioned: #3030300e;
   --background-mentioned-hover: #3030300e;
   /* modifiers */
-  --background-modifier-hover: #646464;
-  --background-modifier-active: #9b9b9b;
-  --background-modifier-selected: var(--accent-color);
+  --background-modifier-hover: #777777;
+  --background-modifier-active: #424242;
+  --background-modifier-selected: #777777;
   --background-modifier-accent: transparent;
   --background-message-hover: transparent;
   /* text */
-  --text-normal: var(--accent-color);
+  --text-normal: #ffffff;
   --text-positive: var(--text-normal);
-  --text-muted: #a1a1a1;
+  --text-muted: #a7a7a7;
   --text-link: #d4d4d4;
-  --interactive-selected: var(--background-primary);
+  --interactive-selected: rgb(252, 252, 252);
   --interactive-active: var(--text-normal);
   --interactive-normal: var(--text-normal);
   --interactive-muted: var(--button-background-active);
@@ -84,13 +84,13 @@
   --settings-icon-color: #9e9e9e;
   --control-brand-foreground: var(--accent-color);
   --info-warning-foreground: var(--accent-color);
-  --tab-selected: #505050;
-  --switch: #5f5f5f;
+  --tab-selected: #636363;
+  --switch: #aaaaaa;
   --activity-card-background: var(--background-1);
   --brand-experiment: var(--accent-color) !important;
   /* buttons */
   --button-background: #505050;
-  --button-background-hover: #949494;
+  --button-background-hover: #464646;
   --button-background-active: #505050;
   --button-accent: var(--accent-color);
   --button-accent-hover: #505050;
